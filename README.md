@@ -1,2 +1,2 @@
 # Mousetrap-Car_ENG8001
-Arduino code snippets for building a mousetrap car that can sense and avoid an object
+Artifacts chronicling the design evolution, build, and testing of a mousetrap car that can sense and avoid an object
