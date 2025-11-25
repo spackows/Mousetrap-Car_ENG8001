@@ -93,6 +93,16 @@
 <p>Holds the spring to the spring tower (for getting ~360 degrees from spring)</p>
 </td>
 </tr>
+<!---------------------------------- Spring holder top - reversed -->
+<tr>
+<td valign="top">
+<img src="../images/spring-holder-top-reverse_2025-11-23_01.png" width="250" />
+</td>
+<td valign="top">
+<p><a href="spring-holder-top-reverse_2025-11-23_01.SLDPRT">spring-holder-top-reverse_2025-11-23_01</a></p>
+<p>Holds the spring to the reversed spring tower (for getting ~360 degrees from spring)</p>
+</td>
+</tr>
 <!---------------------------------- Small spring wheel -->
 <tr>
 <td valign="top">
