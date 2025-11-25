@@ -53,5 +53,14 @@ Prints status of the button to the serial monitor.  0 is pressed, 1 is unpressed
 </ul>
 </td>
 </tr>
+<tr>
+<td valign="top">
+<p><a href="stepper-motor_02.ino">stepper-motor_02.ino</a></p>
+</td>
+<td valign="top">
+<p>Everything is the same as <a href="stepper-motor_01.ino">stepper-motor_01.ino</a>, except...</p>
+<p>This one turns the motor by a specified angle (in degrees)</p>
+</td>
+</tr>
 </table>
 
