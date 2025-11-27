@@ -54,8 +54,8 @@
 <td valign="top">
 <p>Spring tower</p>
 <ul>
-<li>Mousetrap wood and hammer removed from the spring</li>
-<li>Support structure to allow the spring to rotate as far as possible (~360°)</li>
+<li>Mousetrap spring removed from the wood</li>
+<li>3D-printed support structure to allow the spring to rotate as far as possible (~360°)</li>
 </ul>
 </td>
 <td valign="top">
