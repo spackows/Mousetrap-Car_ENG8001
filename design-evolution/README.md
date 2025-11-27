@@ -13,6 +13,39 @@
 
 ## Rear wheels
 
+<table>
+<tr><th>Iteration</th><th>Discussion</th><th>Images</th></tr>
+<tr>
+<td valign="top"><p>1</p></td>
+<td valign="top">
+<p>Cardboard</p>
+<ul>
+<li>Cardboard circle (from cake decorating store)</li>
+<li>Attached to axle with open end of Chicago screw</li>
+<li>Chicago screw pokes through cardboard and taped on</li>
+</ul>
+</td>
+<td valign="top">
+<img src="../images/wheels-cardboard.png" width="300" />
+</td>
+</tr>
+<tr>
+<td valign="top"><p>2</p></td>
+<td valign="top">
+<p>3D printed</p>
+<ul>
+<li>3D printed wheels of various diameters</li>
+<li>Cut-outs to reduce weight</li>
+<li>Groove on outer edge to hold elastic band for traction</li>
+<li>Flange type attachement to the axle</li>
+</ul>
+</td>
+<td valign="top">
+<img src="../images/3d-printed-wheels.png" width="300" />
+</td>
+</tr>
+</table>
+
 <p>&nbsp;</p>
 
 
