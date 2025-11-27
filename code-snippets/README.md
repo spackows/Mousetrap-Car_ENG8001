@@ -46,7 +46,7 @@ Prints status of the button to the serial monitor.  0 is pressed, 1 is unpressed
 <p>Simply spins the motor</p>
 <ul>
 <li>Board: <a href="https://docs.arduino.cc/hardware/mkr-wifi-1010/#tech-specs">MKR WiFi 1010</a></li>
-<li>Motor: <a href="https://components101.com/motors/28byj-48-stepper-motor">28BYJ-48 stepper motor</a></li>
+<li>Motor: <a href="https://www.makerguides.com/wp-content/uploads/2019/04/28byj48-Stepper-Motor-Datasheet.pdf">28BYJ-48 stepper motor</a></li>
 <li>Driver board: <a href="https://www.hadex.cz/spec/m513.pdf">ULN2003 driver board</a></li>
 <li>Power supply module: <a href="https://components101.com/modules/5v-mb102-breadboard-power-supply-module">MB102 Breadboard power supply module</a></li>
 <li>Inspiration: <a href="https://github.com/NikodemBartnik/ArduinoTutorials/blob/master/28BYJ-48/28BYJ-48.ino">Sample by Nikodem Bartnik</a></li>
