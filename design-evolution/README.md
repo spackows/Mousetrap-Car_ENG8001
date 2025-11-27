@@ -3,6 +3,7 @@
 <ul>
 <li><a href="">Rear wheels</a></li>
 <li><a href="">Transferring power from spring to wheels</a></li>
+<li><a href="">Chassis</a></li>
 <li><a href="">Detecting the object</a></li>
 <li><a href="">Steering the car</a></li>
 </ul>
@@ -96,12 +97,89 @@
 <p>&nbsp;</p>
 
 
+## Chassis
+
+<p>&nbsp;</p>
+
+
 ## Detecting the object
 
 <p>&nbsp;</p>
 
 
 ## Steering the car
+
+<table>
+<tr><th>Iteration</th><th>Discussion</th><th>Images</th></tr>
+<tr>
+<td valign="top"><p>1</p></td>
+<td valign="top">
+<p>No turn</p>
+<ul>
+<li>Single wheel</li>
+<li>Axle fixed to chassis</li>
+</ul>
+</td>
+<td valign="top">
+<img src="../images/front-wheel-no-turn.png" width="200" />
+</td>
+</tr>
+<tr>
+<td valign="top"><p>2</p></td>
+<td valign="top">
+<p>Swivel</p>
+<ul>
+<li>Single wheel</li>
+<li>Axle fixed to swivel</li>
+<li>Hole at top of swivel to attach to a motor</li>
+</ul>
+</td>
+<td valign="top">
+<img src="../images/front-wheel-prototypes.png" width="300" />
+</td>
+</tr>
+<tr>
+<td valign="top"><p>3</p></td>
+<td valign="top">
+<p>Flange-inspired</p>
+<ul>
+<li>Single wheel</li>
+<li>Axle fixed to swivel</li>
+<li>Flange type attachement at top to attach to a motor</li>
+</ul>
+</td>
+<td valign="top">
+<img src="../images/front-wheel-flange.png" width="200" />
+</td>
+</tr>
+<tr>
+<td valign="top"><p>4</p></td>
+<td valign="top">
+<p>Wheel pointer</p>
+<ul>
+<li>Pointer is added to the swivel to show the direction the wheel is facing</li>
+<li>Swivel is wider to allow more wheel extension to cover a longer axle (for less wiggle)</li>
+</ul>
+</td>
+<td valign="top">
+<img src="../images/wheel-pointer.png" width="200" />
+</td>
+</tr>
+<tr>
+<td valign="top"><p>5</p></td>
+<td valign="top">
+<p>Protractor</p>
+<ul>
+<li>Wheel is attached to stepper moter on chassis</li>
+<li>Protractor is attached to chassis, centered on stepper motor arm</li>
+<li>Angle of wheel turn can be read by the angle to which the wheel pointer aligns on the protractor</li>
+</ul>
+</td>
+<td valign="top">
+<img src="../images/protractor.png" width="200" />
+</td>
+</tr>
+</table>
 
 <p>&nbsp;</p>
 
